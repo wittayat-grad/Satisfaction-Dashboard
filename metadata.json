@@ -1,0 +1,6 @@
+{
+  "name": "ระบบประเมินความพึงพอใจการอบรม & Realtime Dashboard",
+  "description": "เว็บแอปพลิเคชันเก็บความพึงพอใจผู้เข้าอบรมผ่านมือถือ พร้อมหน้า Dashboard แสดงผลคะแนนเฉลี่ย สถิติ และข้อเสนอแนะแบบเรียลไทม์ทันที รองรับ QR Code และ Export CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
